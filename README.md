@@ -1,4 +1,4 @@
-# Lahore View 🌆
+# Lahore View 
 
 **Lahore View** is a simple and informative website that showcases the beauty, culture, education, and landmarks of Lahore. This project is open for anyone to download, use, and customize according to their needs.  
 
@@ -6,10 +6,10 @@
 
 ## Features
 
-- ✅ Displays popular places and landmarks in Lahore  
-- ✅ Provides information about culture, food, and education  
-- ✅ Clean and responsive design  
-- ✅ Easy to customize for personal or educational use  
+-  Displays popular places and landmarks in Lahore  
+-  Provides information about culture, food, and education  
+-  Clean and responsive design  
+-  Easy to customize for personal or educational use  
 
 ---
 
@@ -60,7 +60,6 @@ This project is completely **free to use**. You can download, modify, and share 
 ## Author
 
 - **Created by:** Ihtasham  
-- **Contact:** *(optional email or social link)*  
 
 ---
 
