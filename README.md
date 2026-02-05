@@ -15,7 +15,7 @@
 
 ## Demo
 
-You can view the live demo [here](#) *(replace `#` with live URL if available)*  
+You can view the live demo *https://lahoreviews.netlify.app/*  
 
 ---
 
