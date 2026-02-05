@@ -47,7 +47,7 @@ To use this project locally:
 
 - HTML5  
 - CSS3  
-- JavaScript (optional, for interactive features)  
+- python (optional, for interactive features)  
 
 ---
 
